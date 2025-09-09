@@ -1,0 +1,7 @@
+{
+  "name": "Real-Time Spanish to German Translator",
+  "description": "An application that listens to spoken Spanish, transcribes it, translates it to German using the Gemini API, and speaks the German translation aloud. Includes logging functionality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
